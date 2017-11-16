@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-tucows",
+  "version": "1.0.0",
+  "description": "Our JavaScript style at Tucows",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tucows/eslint-config-tucows.git"
+  },
+  "keywords": [
+    "eslint",
+    "javascript",
+		"eslintconfig" 
+  ],
+  "author": "Paul Tichonczuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tucows/eslint-config-tucows/issues"
+  },
+  "homepage": "https://github.com/tucows/eslint-config-tucows#readme",
+	"peerDependencies": {
+			"eslint": ">= 4",
+			"bable-eslint": ">=8"
+	}
+}
