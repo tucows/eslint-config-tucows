@@ -20,6 +20,6 @@
   "homepage": "https://github.com/tucows/eslint-config-tucows#readme",
 	"devDependencies": {
 			"eslint": ">= 4",
-			"bable-eslint": ">=8"
+			"babel-eslint": ">=8"
 	}
 }
