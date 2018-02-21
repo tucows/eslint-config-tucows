@@ -31,9 +31,6 @@ module.exports = {
 				"error",
 				"all"
 			],
-			"default-case": [
-				"error"
-			],
 			"no-alert": [
 				"warn"
 			],
@@ -121,13 +118,6 @@ module.exports = {
 					"error",
 					"unix"
 			],
-			"lines-around-comment": [
-				"warn",
-				{
-					"afterBlockComment": false,
-					"beforeLineComment": true
-				}
-			],
 			"max-depth": [
 				"warn",
 				{
@@ -141,10 +131,6 @@ module.exports = {
 					"skipBlankLines": true,
 					"skipComments": true
 				}
-			],
-			"multiline-comment-style": [
-				"warn",
-				"starred-block"
 			],
 			"no-lonely-if": [
 				"warn"
