@@ -66,6 +66,13 @@ module.exports = {
 					"allow": [] 
 				}
 			],
+			"no-unused-vars": [
+				"error",
+				{
+					"vars": "all",
+					"args": "none"
+				}
+			],
 			"array-bracket-newline": [
 				"error",
 				{
