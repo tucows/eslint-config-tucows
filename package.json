@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-tucows",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Our JavaScript style at Tucows",
   "main": "index.js",
   "repository": {
@@ -18,7 +18,7 @@
     "url": "https://github.com/tucows/eslint-config-tucows/issues"
   },
   "homepage": "https://github.com/tucows/eslint-config-tucows#readme",
-	"devDependencies": {
+	"dependencies": {
 			"eslint": ">= 4",
 			"babel-eslint": ">=8"
 	}
