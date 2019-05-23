@@ -31,6 +31,9 @@ module.exports = {
 				"error",
 				"all"
 			],
+			"no-warning-comments": [
+				"warn"
+			],
 			"no-alert": [
 				"warn"
 			],
